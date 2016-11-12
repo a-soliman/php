@@ -5,5 +5,7 @@
 function myfirstfunction() {
 	echo "PHP is an easy yet powerful langauge";
 }
+/* Calling the functhion */
+myfirstfunction();
 
 ?>
