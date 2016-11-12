@@ -1,11 +1,8 @@
 <html>
-
 	<head>
-		<h1>Hello World, This is my first PHP page</h1>
+		<h1>Hello world</h1>
 	</head>
-
 	<body>
-		<?php echo "Hello world, this is again my first PHP page";?>
+		<?php echo "Hello World, This is my first PHP Page!"; ?>
 	</body>
-sdas
 </html>
