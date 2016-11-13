@@ -7,4 +7,7 @@ $name = "Ahmed";
 /* Arithmetic Operators */
 
 echo $x + $y;
+echo $x - $y;
+echo $x * $y;
+echo $x / $y;
 ?>
