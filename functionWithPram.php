@@ -11,7 +11,7 @@
 				echo "sum of the two numbers is : $total";
 			}
 
-			
+			simpleFunction(204, 3)
 
 
 		?>
