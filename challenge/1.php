@@ -4,18 +4,16 @@
 	</head>
 	<body>
 		<form action="" method="POST">
-			<h2>Please write your name</h2>
+			<h3>Name:</h3>
 			<input type="text" name="name">
 			<input type="submit" value="Submit Name">
 		</form>
-		<!--Starting the PHP program-->
+		<!--Starting the PHP programming -->
 		<?php 
-			
-			/*Retrivining the data*/
-			$name = $_POST['name'];
-
-			/* Priniting the name*/
-			echo "<h3>Hello $name</h3";
+		/* retriving the data*/
+		$name = $_POST['name'];
+		/*Printing the name*/
+		echo "<h3>Hello $name</h3>";
 		?>
 	</body>
 </html>
